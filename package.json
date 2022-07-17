@@ -73,7 +73,7 @@
     "@nrwl/eslint-plugin-nx": "14.3.6",
     "@nrwl/jest": "14.4.3",
     "@nrwl/linter": "14.3.6",
-    "@nrwl/workspace": "14.3.6",
+    "@nrwl/workspace": "14.4.3",
     "@types/jest": "27.4.1",
     "@types/node": "16.11.7",
     "@typescript-eslint/eslint-plugin": "~5.24.0",
